@@ -1,0 +1,27 @@
+{
+    "name": "MOG Tubby #8168",
+    "created_by": "Tubby Cats",
+    "external_url": "https://twitter.com/tubbycatsnft",
+    "description": "Commemorating 10,000 cousins mogging onchain\n\n VRM: https://ipfs.io/ipfs/QmQi6AZD8PeiDT6YuyemWWVYaQYxSy5mRnattAFyq2yvEm/MOG_Tubby.vrm \n\n GLB: https://ipfs.io/ipfs/QmQi6AZD8PeiDT6YuyemWWVYaQYxSy5mRnattAFyq2yvEm/tubby_point.glb",
+    "vrm_url": "https://ipfs.io/ipfs/QmQi6AZD8PeiDT6YuyemWWVYaQYxSy5mRnattAFyq2yvEm/MOG_Tubby.vrm",
+    "animation_url": "ipfs://QmQi6AZD8PeiDT6YuyemWWVYaQYxSy5mRnattAFyq2yvEm/tubby_point.glb",
+    "image": "ipfs://QmUkuCY19vLnvis2gF167xkMYUpDANWKuEMYQGWe6GV7Yy",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Dino x M3"
+        },
+        {
+            "trait_type": "Vibes",
+            "value": "Immaculate"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Mogging"
+        },
+        {
+            "trait_type": "Culture",
+            "value": "Based"
+        }
+    ]
+}
